@@ -98,7 +98,3 @@ The highest score is saved using Unity `PlayerPrefs`.
 - Play Again functionality
 - Return to Main Menu
 - Persistent high score
-
-│   └── ui/
-├── Prefabs/
-└── ...
