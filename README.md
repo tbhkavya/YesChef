@@ -1,6 +1,6 @@
 # Yes Chef! 🍳
 
-A 3D top-down cooking game developed in Unity as part of the Developer Test for Tentworks Interactive.
+A 3D top-down cooking game developed in Unity.
 
 ## 🎮 Game Overview
 
@@ -19,7 +19,7 @@ The player can:
 
 ## 🛠️ Built With
 
-- **Unity:** 6000+
+- **Unity:** 6000.3.10f1
 - **Language:** C#
 - **Platform:** Windows PC
 - **3D:** Unity primitives and custom game objects
@@ -99,15 +99,6 @@ The highest score is saved using Unity `PlayerPrefs`.
 - Return to Main Menu
 - Persistent high score
 
-## 📁 Project Structure
-
-```text
-Assets/
-├── Scenes/
-├── Scripts/
-│   ├── ingredients/
-│   ├── player/
-│   ├── stations/
 │   └── ui/
 ├── Prefabs/
 └── ...
